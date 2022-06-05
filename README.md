@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aysenurtuna
-- 👀 I’m interested in fronted development
+- 👀 I’m interested in frontend development
 - 🌱 I’m currently learning javascript
 
 <!---
