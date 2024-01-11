@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aysenurtuna
-- 👀 I’m interested in frontend development
-- 🌱 I’m currently learning react
+- 👀 I’m interested in fullstack development
+- 🌱 I’m currently learning Asp.Net MVC
 
 <!---
 aysenurtuna/aysenurtuna is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
